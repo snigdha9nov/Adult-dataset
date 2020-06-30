@@ -1,4 +1,4 @@
-setwd("~/Documents/kaggle/adult")
+
 data<-read.csv('adult.csv')
 suppressWarnings(suppressMessages(library(tidyverse)))
 
